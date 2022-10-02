@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://sunil-debug123.github.io/File-Upload-in-React/
 
-**#Deployment
+**#Deployment**
 
 To deploy this project just clone the code from my github account
 
