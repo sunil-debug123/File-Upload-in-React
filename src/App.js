@@ -3,10 +3,10 @@ import FileUploader from "./components/FileUploader";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="App-header">
+
         <FileUploader />
-      </header>
+
     </div>
   );
 }
